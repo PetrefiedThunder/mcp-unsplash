@@ -53,4 +53,4 @@ npx mcp-unsplash
 
 ## License
 
-MIT
+Apache-2.0
